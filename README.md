@@ -5,6 +5,6 @@
 
 ### Current Project/Work
 * Scientific Document Processing under [WING@NUS](https://wing.comp.nus.edu.sg/)
-* Incoming Quant Dev Intern @ Astignes Capital
+* Quant Developer Intern @ Astignes Capital
 
 [![Jiahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljhgabe&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
